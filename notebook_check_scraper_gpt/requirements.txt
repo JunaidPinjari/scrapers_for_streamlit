@@ -1,0 +1,11 @@
+requests
+fake-useragent
+python-decouple
+pillow
+html-text
+pandas
+beautifulsoup4
+lxml
+openpyxl
+azure-cosmos
+numpy==1.26.4
